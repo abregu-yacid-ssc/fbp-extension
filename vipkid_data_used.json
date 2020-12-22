@@ -1,0 +1,30 @@
+{
+    "school": "vipkid",
+    "student_id": "12330839",
+    "course_id": "843061",
+    "classroom_id": "236914",
+    "student_suggested_name": "John",
+    "course_suggested_name": "MC-L4-U12-LC2-10: Lesson 10 Japan 10",
+    "meta_data": {
+      "collector": "fbp-browser-extension-1.21.22",
+      "teacher": 2243390
+    },
+    "custom_data": {
+      "student_gender": "MALE",
+      "schedule": {
+        "ts": 1608631200000,
+        "time": "Dec 22 2020 05:00AM"
+      },
+      "course": {
+        "type_id": 597816,
+        "number": "MC-L4-U12-LC2-10",
+        "name": "Lesson 10 Japan 10",
+        "id": 843061,
+        "version": 1001
+      },
+      "status": "BOOKED",
+      "finish_type": "",
+      "is_short_notice": false,
+      "is_interactive": false
+    }
+  }
